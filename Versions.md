@@ -1,0 +1,33 @@
+
+
+# Application stereotypes
+
+|Id |Platform/Application|Versions
+|---|--------------------|-------|
+| 01| [Spring boot]()       | [User Guide]()     |
+| 01| [Laravel]()       | [User Guide]()     |
+| 02| [Express JS]()       | [User Guide]()     |
+| 03| [.net]()       | [User Guide]()     |
+
+# Databases
+
+|Id |Platform/Application|Versions
+|---|--------------------|-------|
+| 01| [MySQL]()       | [User Guide]()     |
+| 02| [MongoDB]()       | [User Guide]()     |
+| 03| [PostgreSQL]()       | [User Guide]()     |
+| 04| [Cassandra]()       | [User Guide]()     |
+| 05| [Redis]()       | [User Guide]()     |
+
+# Object storage
+|Id |Platform/Application|Versions
+|---|--------------------|-------|
+| 01| [S3]()       | [User Guide]()     |
+
+# Others
+|Id |Platform/Application|Versions
+|---|--------------------|-------|
+| 01| [CI/CD]()       | [User Guide]()     |
+| 02| [Log Manager]()       | [User Guide]()    |
+| 03| [Private Registry]()       | [User Guide]()    |
+| 04| [DNS]()       | [User Guide]()    |
