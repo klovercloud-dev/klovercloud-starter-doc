@@ -1,6 +1,9 @@
 
+[Prerequisities](./Prerequisities.md)
 
 # Application stereotypes
+
+[Prerequisities](./VPCCreation.md)
 
 |Id |Platform/Application|Versions
 |---|--------------------|-------|

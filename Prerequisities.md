@@ -43,4 +43,8 @@ After registration, while login to the system for the very first time, a popup w
 
 ![basic integration completion](./images/basic_integration_completed.png)
 
-### ```Click``` ```Start Using Klovercloud```
+### ```Click``` ```Start Using Klovercloud```, it will derive user the follwoing page,
+
+
+![home page](images/homePage.png)
+
