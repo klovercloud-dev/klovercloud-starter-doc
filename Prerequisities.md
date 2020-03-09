@@ -6,9 +6,7 @@
 
 In order to incorporate offered services, user must be registerted to klovecloud. Some of the services require certain repository and registry authority.
 
-### Let's follow the following steps to get registered
-
-#### Browse to user registration [url](https://webapp.klovercloud.io/auth/login)
+### Browse to user registration [url](https://webapp.klovercloud.io/auth/login)
 
 ![](./images/user-registration1.0.0.png)
 
