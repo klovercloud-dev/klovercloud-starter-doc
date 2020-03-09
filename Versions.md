@@ -11,9 +11,9 @@
 
 # Databases
 
-|Id |Platform/Application|Versions
+|Id |Platform/Application|Documentation
 |---|--------------------|-------|
-| 01| [MySQL]()       | [User Guide]()     |
+| 01| [MySQL]()       | [User Guide]() |
 | 02| [MongoDB]()       | [User Guide]()     |
 | 03| [PostgreSQL]()       | [User Guide]()     |
 | 04| [Cassandra]()       | [User Guide]()     |
