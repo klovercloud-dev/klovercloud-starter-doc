@@ -23,12 +23,12 @@
 | 05| [Redis]()       | [User Guide]()     |
 
 # Object storage
-|Id |Platform/Application|Versions
+|Id |Platform/Application|Documentation
 |---|--------------------|-------|
 | 01| [S3]()       | [User Guide]()     |
 
 # Others
-|Id |Platform/Application|Versions
+|Id |Platform/Application|Documentation
 |---|--------------------|-------|
 | 01| [CI/CD]()       | [User Guide]()     |
 | 02| [Log Manager]()       | [User Guide]()    |
